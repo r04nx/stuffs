@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Call of Duty Black Ops
+Comment=Play Black Ops on NVIDIA GPU
+Exec=/home/rohan/Public/stuffs/cod_blackops_optimized.sh
+Icon=utilities-terminal
+Terminal=false
+Categories=Game;

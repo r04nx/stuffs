@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=WD 2
+Comment=Play Watch Dogs 2 with AMD Optimizations & FSR
+Exec="/home/rohan/Public/stuffs/watchdogs2_optimized.sh"
+Icon=/media/rohan/Game/Watch Dogs 2/icon.ico
+Terminal=false
+Categories=Game;
+StartupWMClass=watchdogs2.exe
